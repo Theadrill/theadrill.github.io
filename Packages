@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Rodrigo Vernaschi <theadrill@gmail.com>
 Depends: com.matchstic.xenhtml
 Filename: debs//Widget.deb
-Size: 77462
+Size: 156082
 MD5sum: 58b395e04696ea277c5fbb32b405fcbb
 SHA1: ff36ae56cd48165f3a58803d7265ef7b020cd3e3
 SHA256: 5730a6394ba303789e69e094b20d8953e26a050413328b37548996234aa63fdd
