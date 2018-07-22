@@ -1,0 +1,15 @@
+Package: com.theadrill.dividexi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Rodrigo Vernaschi <theadrill@gmail.com>
+Depends: com.matchstic.xenhtml
+Filename: debs//Widget.deb
+Size: 77462
+MD5sum: f66ee3191e288b9b308d0e4b221eeca8
+SHA1: be8b03c138af9a0759e6cd1241d0bb39b05c98dc
+SHA256: f4141591c9a1c8aac044578b476faf88baca87342ad1754911d6b76f00e6934d
+Section: Widgets
+Description: It requires XEN INFO. A modern widget with weather and battery percentage.
+Author: Rodrigo Vernaschi <theadrill@gmail.com>
+Depiction: 
+Name: DivideXI - XenHTML Widget
