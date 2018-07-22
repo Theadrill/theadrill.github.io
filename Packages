@@ -11,5 +11,5 @@ SHA256: 5e0843d13b97d2acdf7cc9aae985c9680aca954bb14bf6a51f5ddc46712095b0
 Section: Widgets
 Description: It requires XEN INFO. A modern widget with weather and battery percentage.
 Author: Rodrigo Vernaschi <theadrill@gmail.com>
-Depiction: 
+Depiction: https://theadrill.github.io/depic/dividedxi.depic/index.html
 Name: DividedXI - XenHTML Widget
