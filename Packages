@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Rodrigo Vernaschi <theadrill@gmail.com>
 Depends: com.matchstic.xenhtml
 Filename: debs//Widget.deb
-Size: 156082
-MD5sum: 58b395e04696ea277c5fbb32b405fcbb
-SHA1: ff36ae56cd48165f3a58803d7265ef7b020cd3e3
-SHA256: 5730a6394ba303789e69e094b20d8953e26a050413328b37548996234aa63fdd
+Size: 77458
+MD5sum: b1d80602f33435566b60a00a704f2843
+SHA1: cdf5f51fcd9e71d264759b74fa1c8046c93cbda4
+SHA256: dc304c089fd347e912a0e9b61cdb4394adcf96bcc741bbdf3834ec8dfdb4491f
 Section: Widgets
 Description: It requires XEN INFO. A modern widget with weather and battery percentage.
 Author: Rodrigo Vernaschi <theadrill@gmail.com>
