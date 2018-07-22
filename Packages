@@ -5,11 +5,11 @@ Maintainer: Rodrigo Vernaschi <theadrill@gmail.com>
 Depends: com.matchstic.xenhtml
 Filename: debs//Widget.deb
 Size: 77458
-MD5sum: b1d80602f33435566b60a00a704f2843
-SHA1: cdf5f51fcd9e71d264759b74fa1c8046c93cbda4
-SHA256: dc304c089fd347e912a0e9b61cdb4394adcf96bcc741bbdf3834ec8dfdb4491f
+MD5sum: 0abe939c0da3f6b39654854689a7c245
+SHA1: 030724dbcef2aaeacb77feaef70279d8d6a336c1
+SHA256: 5e0843d13b97d2acdf7cc9aae985c9680aca954bb14bf6a51f5ddc46712095b0
 Section: Widgets
 Description: It requires XEN INFO. A modern widget with weather and battery percentage.
 Author: Rodrigo Vernaschi <theadrill@gmail.com>
 Depiction: 
-Name: DivideXI - XenHTML Widget
+Name: DividedXI - XenHTML Widget
